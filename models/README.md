@@ -1,0 +1,1 @@
+This directory is for files to store data structures for database objects

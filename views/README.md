@@ -1,0 +1,1 @@
+This directory is for web files which will be served to users to render web interfaces

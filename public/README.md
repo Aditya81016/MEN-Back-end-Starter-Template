@@ -1,0 +1,1 @@
+This directory is for public files which are meant to be served

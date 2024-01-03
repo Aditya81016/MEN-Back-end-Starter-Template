@@ -1,0 +1,1 @@
+This directory is for files to perform internal operations on server
